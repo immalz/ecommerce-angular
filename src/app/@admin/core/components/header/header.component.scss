@@ -1,0 +1,12 @@
+@import "./../../../pages/admin.component.scss";
+button#menu-toggle {
+    color: $admin-primary-color;
+    background: transparent;
+    outline: none;
+    border: transparent;
+    font-size: large;
+}
+
+.navbar-admin {
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+}
